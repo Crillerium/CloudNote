@@ -14,7 +14,7 @@ Cloud Note是由Crillerium制作的开源云笔记项目。
 
 # Cloud Note安装
 1.Cloud Note使用PHP&MySQL,因此你需要在受支持的环境下使用。  
-2.在MySQL中创建一个空数据库，并在server.config中填写好对应数据。  
+2.在MySQL中创建一个空数据库，并在server.config中填写好相应数据。  
 3.访问 你的IP/install.php ,确认server.config配置无误后点击 "开始安装"。  
 4.若配置无误，网站会显示"数据表创建成功"，然后点击"返回主页"即可正常使用。  
 5.若网站显示"数据表创建失败"，请提交issue反馈。
